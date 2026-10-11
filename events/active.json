@@ -1,0 +1,59 @@
+{
+  "slug": "sujatha-catering-and-event-management-kollam",
+  "name": "Sujatha Catering and Event Management",
+  "shortName": "Sujatha",
+  "descriptor": "Catering & Events",
+  "address": "Thekkekkavu temble road, Vadakkevila, Kollam, Keralam 691021",
+  "area": "Vadakkevila",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691021",
+  "geo": {
+    "lat": 8.8848183,
+    "lng": 76.6252685
+  },
+  "mapsLink": "https://maps.google.com/?cid=16158888520555901776",
+  "phone": "+91 96455 10178",
+  "whatsapp": "919645510178",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.9,
+  "reviewCount": 52,
+  "reviews": [
+    {
+      "name": "HARI KRISHNAN",
+      "rating": 5,
+      "quote": "Sujatha Catering recently handled my sister's pre-wedding reception, and I couldn't be more impressed. The stage decoration was absolutely stunning, creating a beautiful and elegant atmosphere for the event. The food was equally amazing, with a wide variety of delicious dishes that all our guests raved about."
+    },
+    {
+      "name": "John Kennedy",
+      "rating": 5,
+      "quote": "I recently had an experience with Sujatha Catering and Events and I am very satisfied with their service💗 The food quality was excellent, with good taste and proper presentation🔥 Everything was well organized and delivered on time. The team was professional, friendly and handled everything smoothly without any issues."
+    },
+    {
+      "name": "aravind s pillai",
+      "rating": 5,
+      "quote": "I wanted to thank you for the excellent customer service and amazing food! All of our guests raved about how delicious everything was. Thank you for making everything so simple and enabling me to relax and enjoy with my family and friends."
+    },
+    {
+      "name": "ADARSH NATH AR",
+      "rating": 5,
+      "quote": "\"I recently had the pleasure of attending a catering event hosted by Sujatha Catering for my sister's wedding, and I must say, it was a memorable experience! The cuisine was very fantastic, with a vast range of selections to satisfy any taste or dietary restriction."
+    },
+    {
+      "name": "Anjana Sanil",
+      "rating": 5,
+      "quote": "Absolutly mouth-watering! The flavours were perfect and everyone loved the menu variety. The team was punctual, well- organised and incredibly polite."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://sujatha-catering-and-event-manageme.vercel.app"
+}
